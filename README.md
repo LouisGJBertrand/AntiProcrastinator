@@ -31,12 +31,15 @@ the list of blacklisted website that are dangerous for focus:
 # Screenshots
 
 the popup menu:
+
 ![popup](https://github.com/PYLOTT/AntiProcrastinator/raw/main/imgs/screen1.JPG)
 
 the popup when accessing blacklisted site and AntiProcrastinator mode enabled:
+
 ![popup when accessing blacklisted websites](https://github.com/PYLOTT/AntiProcrastinator/raw/main/imgs/screen2.JPG)
 
 the popup when accessing blacklisted site and AntiProcrastinator mode & hardcore mode enabled:
+
 ![popup when accessing blacklisted websites & hardcoremode enabled](https://github.com/PYLOTT/AntiProcrastinator/raw/main/imgs/screen3.JPG)
 
 # Authors
