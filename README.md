@@ -1,6 +1,6 @@
 # AntiProcrastinator
 
-it's a chrome extension that - when activated - asks for acknoledgment when you are about to access a webpage that is blacklisted.
+it's a chrome extension that - when activated - asks for acknowledgment when you are about to access a webpage that is distractful.
 
 the list of blacklisted website that are dangerous for focus:
 
@@ -10,15 +10,7 @@ the list of blacklisted website that are dangerous for focus:
     "mycanal.fr","www.mycanal.fr",
     "canalplus.com","www.canalplus.com",
     "disneyplus.com","www.disneyplus.com",
-    "netflix.com","www.netflix.com",
-    "primevideo.com","www.primevideo.com",
-    "reddit.com", "www.reddit.com",
-    "4chan.org", "www.4chan.org",
-    "instagram.com", "www.instagram.com",
-    "tiktok.com", "www.tiktok.com",
-    "dailymotion.com", "www.dailymotion.com",
-    "rutub.ru", "www.rutub.ru",
-    "p***h*b.com", "www.p***h*b.com"]
+    "netflix.com","www.netflix.com" & more...
 
 # Screenshots
 
