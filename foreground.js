@@ -4,7 +4,28 @@ console.log(currentHost);
 var activated = false;
 var hardcoreMode = false;
 
-var bannedUrls = ["youtube.com", "www.youtube.com", "facebook.com", "www.facebook.com", "artstation.com", "www.artstation.com", "pornhub.com", "www.pornhub.com"]
+var bannedUrls = 
+    ["youtube.com",
+    "www.youtube.com",
+    "facebook.com",
+    "www.facebook.com",
+    "artstation.com",
+    "www.artstation.com",
+    "mycanal.fr","www.mycanal.fr",
+    "disneyplus.com","www.disneyplus.com",
+    "netflix.com","www.netflix.com",
+    "reddit.com",
+    "www.reddit.com",
+    "4chan.org",
+    "www.4chan.org",
+    "instagram.com",
+    "www.instagram.com",
+    "tiktok.com",
+    "www.tiktok.com",
+    "dailymotion.com",
+    "www.dailymotion.com",
+    "rutub.ru",
+    "www.rutub.ru","pornhub.com", "www.pornhub.com"]
 
 chrome.storage.local.get(['activated','hardcoreMode'], function (result) {
     activated = result.activated;
