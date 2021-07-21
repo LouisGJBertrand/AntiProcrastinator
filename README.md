@@ -4,29 +4,21 @@ it's a chrome extension that - when activated - asks for acknoledgment when you 
 
 the list of blacklisted website that are dangerous for focus:
 
-    ["youtube.com",
-    "www.youtube.com",
-    "facebook.com",
-    "www.facebook.com",
-    "artstation.com",
-    "www.artstation.com",
+    ["youtube.com", "www.youtube.com",
+    "facebook.com", "www.facebook.com",
+    "artstation.com", "www.artstation.com",
     "mycanal.fr","www.mycanal.fr",
+    "canalplus.com","www.canalplus.com",
     "disneyplus.com","www.disneyplus.com",
     "netflix.com","www.netflix.com",
-    "reddit.com",
-    "www.reddit.com",
-    "4chan.org",
-    "www.4chan.org",
-    "instagram.com",
-    "www.instagram.com",
-    "tiktok.com",
-    "www.tiktok.com",
-    "dailymotion.com",
-    "www.dailymotion.com",
-    "rutub.ru",
-    "www.rutub.ru",
-    "p***h*b.com",
-    "www.p***h*b.com"]
+    "primevideo.com","www.primevideo.com",
+    "reddit.com", "www.reddit.com",
+    "4chan.org", "www.4chan.org",
+    "instagram.com", "www.instagram.com",
+    "tiktok.com", "www.tiktok.com",
+    "dailymotion.com", "www.dailymotion.com",
+    "rutub.ru", "www.rutub.ru",
+    "p***h*b.com", "www.p***h*b.com"]
 
 # Screenshots
 
