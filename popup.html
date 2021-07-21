@@ -1,0 +1,61 @@
+
+<meta http-equiv="Content-Security-Policy" content="default-src 'self';connect-src *;style-src 'self' data: 'unsafe-inline';">
+
+
+<style>
+
+    /* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap'); */
+
+
+    *{ text-align: center; font-family: 'Montserrat', sans-serif; font-weight: 100; }
+
+    body{
+        background: #222;
+        color: #eeffee;
+        margin: 30px;
+    }
+
+    .ActiveSwitch{
+        
+        width: 80px;
+        height: 80px;
+        border-radius: 100%;
+        border: 0px;
+        background: #222;
+        transition: background-color .25s, border .1s;
+
+    }
+
+    .ActiveSwitchEnabled
+    {
+        color: white;
+        background: rgb(49, 150, 49);
+        border: 3.0px solid white;
+    }
+
+    .ActiveSwitchDisabled
+    {
+        color: white;
+        background: rgb(212, 49, 49);
+        border: 1.0px solid white;
+    }
+</style>
+
+<h1>
+
+    ANTIPROCRASTINATOR
+
+</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div>
+    <span style="font-size: 1.5em;">AntiProcrastinator state</span><br><br>
+    <button id="activeSwitch" class="ActiveSwitch">Disabled</button><br><br>
+    <input type="checkbox" id="HardCoreSwitch"> HardCore mode </input>
+</div>
+
+<script src="popup.js"></script>
