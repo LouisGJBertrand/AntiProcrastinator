@@ -1,5 +1,8 @@
 # AntiProcrastinator
 
+Edge Addon Store extension page
+[https://microsoftedge.microsoft.com/addons/detail/antiprocrastinator/mdhkpdaacppbiaiapjenmhaodcclekfc]
+
 it's a chrome extension that - when activated - asks for acknowledgment when you are about to access a webpage that is distractful.
 
 the list of blacklisted website that are dangerous for focus:
