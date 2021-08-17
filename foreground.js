@@ -27,7 +27,14 @@ var bannedUrls =
     "dailymotion.com",
     "www.dailymotion.com",
     "rutub.ru",
-    "www.rutub.ru","pornhub.com", "www.pornhub.com"]
+    "www.rutub.ru"]
+
+// TODO: Storing and displaying user list in storage & plugin settings
+chrome.storage.local.get(['UserList'], function (result) {
+
+    bannedUrls.concat(result.UserList);
+
+});
 
 chrome.storage.local.get(['activated','hardcoreMode'], function (result) {
     activated = result.activated;
