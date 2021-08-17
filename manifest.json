@@ -14,7 +14,7 @@
     "options_page": "./options.html",
     "permissions":
     [
-        "activeTab","tabs","storage","scripting"
+        "storage"
     ],
     "host_permissions": [
         "*://*/*"
