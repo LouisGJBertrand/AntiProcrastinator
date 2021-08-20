@@ -1,9 +1,11 @@
 # AntiProcrastinator
 
 Chrome Store Page
+
 [https://chrome.google.com/webstore/detail/antiprocrastinator/kpafikocfkemcfdpfamojheafjakfknh?hl=fr&authuser=1]
 
 Edge Addon Store extension page
+
 [https://microsoftedge.microsoft.com/addons/detail/antiprocrastinator/mdhkpdaacppbiaiapjenmhaodcclekfc]
 
 it's a chrome extension that - when activated - asks for acknowledgment when you are about to access a webpage that is distractful.
