@@ -1,5 +1,8 @@
 # AntiProcrastinator
 
+Chrome Store Page
+[https://chrome.google.com/webstore/detail/antiprocrastinator/kpafikocfkemcfdpfamojheafjakfknh?hl=fr&authuser=1]
+
 Edge Addon Store extension page
 [https://microsoftedge.microsoft.com/addons/detail/antiprocrastinator/mdhkpdaacppbiaiapjenmhaodcclekfc]
 
